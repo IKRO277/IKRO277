@@ -2,7 +2,7 @@
 
 [![Adobe Ilustrattor](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 
-![Icaro GitHub stats](https://github-readme-stats.vercel.app/api?username=IKRO277&show_icons=true&theme=dracula)
+![Icaro GitHub stats](https://github-readme-stats.vercel.app/api?username=IKRO277&show_icons=true&theme=dracula)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKRO277&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
