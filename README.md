@@ -18,7 +18,7 @@
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br>
 
-<div style="display: inline-block"><br/>
+<div style="display: inline-block">
     <img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div></br>
 
