@@ -1,7 +1,7 @@
 # Welcome to my GitHub 👋👋
 >I'm icaro, constantly learning, results-oriented, let's work together?
 ### 1. *Social Media*
-|![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)|![icaropereiradepaula@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)()(www.linkedin.com/in/ikrodev)|![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/ikro.dev/)|
+|![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)|![icaropereiradepaula@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(www.linkedin.com/in/ikrodev)|![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/ikro.dev/)|
 
 > * Computer Technician | Front End Developer 
 ### 2. *Technologies for Work*
